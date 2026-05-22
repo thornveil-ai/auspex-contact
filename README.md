@@ -36,7 +36,6 @@ Auspex is gated. No public source, no demos, no MCP integrations, no architectur
 |---|---|
 | **Jesse Morgan** | Founder, Thornveil LLC |
 | **Email** | jesse@thornveil.ai |
-| **Phone** | (831) 275-8979 |
 
 Export-control screening and engagement-letter review precede any technical disclosure.
 
