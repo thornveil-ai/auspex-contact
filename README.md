@@ -12,7 +12,7 @@
 
 ---
 
-The first AI red team designed to be **deployed** — not demoed. Built for the federal red-team programs, defense primes, and authorized commercial offensive security teams that need autonomous offensive capability they can actually procure, accredit, and run inside their own enclave.
+An AI red team designed to be **deployed** — not demoed. Built for the federal red-team programs, defense primes, and authorized commercial offensive security teams that need autonomous offensive capability they can actually procure, accredit, and run inside their own enclave.
 
 **Scope-as-code.** Engagement boundaries compile from signed YAML into runtime enforcement. The gate refuses anything outside scope — not as a policy that can be relaxed, as architecture.
 
